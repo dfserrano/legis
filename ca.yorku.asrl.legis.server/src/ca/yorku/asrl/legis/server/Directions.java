@@ -36,7 +36,7 @@ import com.google.gson.stream.JsonReader;
 @Path("/directions")
 public class Directions {
 	
-	public static final String GOOGLE_API_KEY = "AIzaSyBdnn64NPPuaiBRbsb94jyVzEjLWC0anh8";
+	public static final String GOOGLE_API_KEY = "";
 	public static final CloudNode myNode = CloudNode.EDGE_TR_1;
 	public static final CloudNode west = CloudNode.EDGE_WT_1;
 	public static final CloudNode north = CloudNode.EDGE_YK_1;
